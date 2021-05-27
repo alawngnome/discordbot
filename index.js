@@ -11,4 +11,5 @@ client.on('message', msg => {
   }
 });
 
-client.login('ODQ3NTc2ODU3NDE0MzM2NTMy.YLAFdg.-H1fGljvOzuOynF3v6-ljArE1Xs');
+//do not push with the token in here or i will be the big mad
+client.login('Bot Token in here');
